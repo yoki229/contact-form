@@ -46,10 +46,6 @@ sudo chmod -R 777 src/*
 
 ![画面イメージ](readme-assets/image.png)
 
-## ER 図
-
-![ER図](readme-assets/er.png)
-
 ## URL
 
 - 開発環境：http://localhost/
