@@ -44,7 +44,7 @@ sudo chmod -R 777 src/*
 
 ## イメージ図
 
-![ER図](readme-assets/image.png)
+![画面イメージ](readme-assets/image.png)
 
 ## ER 図
 
